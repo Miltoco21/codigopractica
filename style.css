@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  height: 800px;
+  background-image: url(./cafe.jpeg);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button:hover 
+{
+  border-color: cyan;
+  
+  
+}
